@@ -26,3 +26,36 @@
     position: absolute;
     top: 50%;
 }
+
+header .navbar {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 20px;
+}
+
+header .navbar li {
+    display: inline-block;
+}
+
+header .navbar li a {
+    text-decoration: none;
+    color: black;
+    padding: 0px 15px;
+}
+
+header .navbar li a:hover {
+    color: lightblue;
+}
+
+header ul {
+    display: inline-block;
+    
+    width: 100%;
+}
+
+header .site-logo {
+    display: inline;
+    font-size: 23px;
+}
