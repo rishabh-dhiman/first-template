@@ -59,3 +59,15 @@ header .site-logo {
     display: inline;
     font-size: 23px;
 }
+
+#about {
+    border: 5px solid red;
+    
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+}
+
+.bg-red {
+    background-color: red;
+}
